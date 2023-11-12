@@ -1,4 +1,4 @@
-![](/dne-logo.png)  
+![](/dow-logo.png)  
 Tor / Darknet Links
 =======================================
 
