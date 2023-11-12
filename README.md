@@ -10,16 +10,16 @@ Every website added to our repository has been verified as legitimate by an inde
 
 #### Top Darknet Markets 2023:
 
-*   [Incognito Market](http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion/) - `http://incognizudojrh3z47tfudcqkuwayp6aeeiufjkccgvvt4jrjcbq3gyd.onion/`
-*   [Nemesis Market](http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion/) - `http://bo4z2ekesxllebpqijubxklnkehoobeu5q7qjdqzfh3hxitwo5fatrad.onion/`
-*   [Abacus Market](http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion/) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion/`
-*   [Kingdom Market](http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion/) - `http://kingdom45dj7wfumjwej2ztogtladxhpwkpifofyeruwgvq4qaltfhad.onion/`
-*   [MGM Grand Market](http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/) - `http://duysanj4hc67rd2hkkrmngj66vj25kxhvafnp3qwrcjcyfgwwd4eeiid.onion/`
-*   [Ares Market](http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion/) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion/`
-*   [Dark Matter](http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion/) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion/`
-*   [We The North Market (Canada)](http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid.onion/register.php) - `http://hn2paw7xhuadhegnbdbdmpap2g6vxjv7d22uhuzg4uz7thf7qbqqvkid.onion/`
-*   [Flugsvamp 4.0 (Sweden)](http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion/) - `http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion/`
-*   [Mega Market (Russia)](http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion/) - `http://mega5cl42slffqduo64dopju3xxnuxbbzycir6vi3gzvhwd2iyilerad.onion/`
+*   [Nemesis Market](http://2izpgts5snlwey5t7iufo5ilxdop5yfyawsnau4cf6qi44svytl3srid.onion/) - `http://2izpgts5snlwey5t7iufo5ilxdop5yfyawsnau4cf6qi44svytl3srid.onion/`
+*   [Incognito Market](http://incogbot2hyiydce4xct6p4elr3r5b2udud3g7xym4ng6sqo3u7yvtqd.onion/) - `http://incogbot2hyiydce4xct6p4elr3r5b2udud3g7xym4ng6sqo3u7yvtqd.onion/`
+*   [Abacus Market](http://abacusxqaxwptjesjt2vbzohjy3lepltj36x4wq6gljtvwhubazovlid.onion/) - `http://abacusxqw5uv7amzqazdbxo2nd57vaioblew6m25pbzznaf4ph6nh6ad.onion/`
+*   [Kingdom Market](http://kingdommzenjq7nowv2mzkjmqrdvdy6jb7rksum4rgip6ixxnadpgcid.onion/) - `http://kingdommzenjq7nowv2mzkjmqrdvdy6jb7rksum4rgip6ixxnadpgcid.onion/`
+*   [MGM Grand Market](http://duysanjnpzv4oh7f5v3vksxmksz4zvuljigrci4cr2zdgqvovpmqibad.onion/) - `http://duysanjnpzv4oh7f5v3vksxmksz4zvuljigrci4cr2zdgqvovpmqibad.onion/`
+*   [Ares Market](http://rj25tf2hnf7zatxmbzl2z2a5coe32yqtzncqfadrbqk5bvjsre4dn3yd.onion/) - `http://rj25tf2tbwt4no22slufc56weql2em2v2zkorklebk3qj6rbbr6bmoid.onion/`
+*   [Dark Matter](http://darkmat7vxcm44pc5wl2w7crogtpasj57oadh7moucp2lchm6l5gohad.onion/) - `http://darkmatu4oxdnzpm7j2lohty35nboxdvxz4stfburupf3f4teg6vetyd.onion/`
+*   [We The North Market (Canada)](http://hn2paw7s6ku5iluzl3ubka3b4yr5koybqazllcbvgifuy3glyev4lmad.onion/register.php) - `http://hn2paw7s6ku5iluzl3ubka3b4yr5koybqazllcbvgifuy3glyev4lmad.onion/`
+*   [Flugsvamp 4.0 (Sweden)](http://fs4is7mckxxx6aincoawjgngy43bbqp7ngevyidobaopbrclvesb3cad.onion/) - `http://flugsvplodga6slsddquahf523xjst2an7umejwgrgbwuk7jd4mbotqd.onion/`
+*   [Mega Market (Russia)](http://mega555smdaywpehj5kbrywjpzcrsiuzzkuya7p3sd2zmuc3xhv7i6yd.onion/) - `http://mega555smdaywpehj5kbrywjpzcrsiuzzkuya7p3sd2zmuc3xhv7i6yd.onion/`
 *   [BlackSprut Market (Russia)](http://btrhbfajwnzdfheibqqpnl2cp3lftwmde5dvlmeumbn6k5f36fxyi4ad.onion/) - `http://btrhbfajwnzdfheibqqpnl2cp3lftwmde5dvlmeumbn6k5f36fxyi4ad.onion/`
 
 
