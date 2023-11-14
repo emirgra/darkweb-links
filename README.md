@@ -36,11 +36,11 @@ Every website added to our repository has been verified as legitimate by an inde
 
 #### Top Cryptocurrency Mixers:
 
-*   [CryptoMixer](http://crypmix4m5iunofa25mpmiihdb56oaqg57tvrebqatc6otn3w65qhlid.onion/) - `http://crypmix4m5iunofa25mpmiihdb56oaqg57tvrebqatc6otn3w65qhlid.onion/`
+*   [CryptoMixer](http://crypmixp6op4ndhudg67b4xhpdpgyilspzttwuchbwm3gw2aa6edbead.onion/) - `http://crypmixp6op4ndhudg67b4xhpdpgyilspzttwuchbwm3gw2aa6edbead.onion/`
 *   [Coinomize](http://coino2q64k4fg3lkjsnhjeydzwykw22a56u5nf2rdfzkjuy3jbwvypqd.onion/) - `http://coino2q64k4fg3lkjsnhjeydzwykw22a56u5nf2rdfzkjuy3jbwvypqd.onion/`
-*   [UniJoin](http://unijoinxaogdzmk3bonngoxxoaezkmsfdyrtfyximisungh2dnc2azad.onion/) - `http://unijoinxaogdzmk3bonngoxxoaezkmsfdyrtfyximisungh2dnc2azad.onion/`
-*   [Sinbad](http://sinbadiovkigdbafpqvwfwjh2tfrisahtxmrskiovt62nirragcnkcad.onion/) - `http://sinbadiovkigdbafpqvwfwjh2tfrisahtxmrskiovt62nirragcnkcad.onion/`
-*   [YoMix](http://yomixio76f7bnurcrqrhoud5moeu4bvlgukkylixgh2teqllg3mjrqyd.onion/) - `http://yomixio76f7bnurcrqrhoud5moeu4bvlgukkylixgh2teqllg3mjrqyd.onion/`
+*   [UniJoin](http://unijoinytchq6rigur6tecscyngi67ntud26mbk5vffqstr4vyv5hxqd.onion/) - `http://unijoinytchq6rigur6tecscyngi67ntud26mbk5vffqstr4vyv5hxqd.onion/`
+*   [Sinbad](http://sinbadicdaozzesffwonjwa46lzwxybpo2yph3r2nyeflb3m4vvpejyd.onion/) - `http://sinbadicdaozzesffwonjwa46lzwxybpo2yph3r2nyeflb3m4vvpejyd.onion/`
+*   [YoMix](http://yomixin66vny4vzavs2m6fhauehm3lnjclbttsalwzs3zlj4kimvq2yd.onion/) - `http://yomixin66vny4vzavs2m6fhauehm3lnjclbttsalwzs3zlj4kimvq2yd.onion/`
 
 
 #### Top Cryptocurrency Exchanges:
