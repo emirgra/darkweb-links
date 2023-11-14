@@ -10,7 +10,7 @@ Every website added to our repository has been verified as legitimate by an inde
 
 
 #### Telegram Advancement:
-*   [ZionStore (Telegram)](https://t.me/ZionStoreBot) - `https://t.me/ZionStoreBot`
+*   [ZionStore (PayPal Logs)](https://t.me/ZionStoreBot) - `https://t.me/ZionStoreBot`
 
 
 
