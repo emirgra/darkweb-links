@@ -8,6 +8,12 @@ Shares this [repository](https://github.com/DeepWebOnion/darkweb-links) to your 
 
 Every website added to our repository has been verified as legitimate by an independent staff of Internet journalists from DeepOnionWeb. Beware of unverified links that may lead to scams. DeepOnionWeb is one of the oldest and most reputable darknet news and links portals, used by thousands of people every day to safely access the darknet. Listed here are the most popular markets and darknet websites currently featured on our repository:
 
+
+#### Telegram Advancement:
+*   [ZionStore (Telegram)](https://t.me/ZionStoreBot) - `https://t.me/ZionStoreBot`
+
+
+
 #### Top Darknet Markets 2023:
 
 *   [Nemesis Market](http://2izpgts5snlwey5t7iufo5ilxdop5yfyawsnau4cf6qi44svytl3srid.onion/) - `http://2izpgts5snlwey5t7iufo5ilxdop5yfyawsnau4cf6qi44svytl3srid.onion/`
