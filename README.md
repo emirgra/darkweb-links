@@ -63,7 +63,6 @@ Every website added to our repository has been verified as legitimate by an inde
 *   [Naturella](http://naturelwg7o3bhnhwcmn6svzoekxkl3pv365krgmdpckonf5xvarlkid.onion/) - `http://naturelwg7o3bhnhwcmn6svzoekxkl3pv365krgmdpckonf5xvarlkid.onion/`
 *   [Psychonaut Wiki](http://vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv2ad.onion/) - `http://vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv2ad.onion/`
 *   [RiseUp](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/) - `http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/`
-*   [ZionStore (Telegram)](https://t.me/ZionStoreBot) - `https://t.me/ZionStoreBot`
 
   
 Support our work, [share](https://github.com/DeepWebOnion/darkweb-links) this repository with anyone who might be interested!
