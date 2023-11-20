@@ -4,14 +4,9 @@ Tor / Darknet Links
 
 
 Shares this [repository](https://github.com/DeepWebOnion/darkweb-links) to your friends!
-  
+
 
 Every website added to our repository has been verified as legitimate by an independent staff of Internet journalists from DeepOnionWeb. Beware of unverified links that may lead to scams. DeepOnionWeb is one of the oldest and most reputable darknet news and links portals, used by thousands of people every day to safely access the darknet. Listed here are the most popular markets and darknet websites currently featured on our repository:
-
-
-#### Telegram Advancement:
-*   [ZionStore (PayPal Logs)](https://t.me/ZionStoreBot) - `https://t.me/ZionStoreBot`
-
 
 
 #### Top Darknet Markets 2023:
